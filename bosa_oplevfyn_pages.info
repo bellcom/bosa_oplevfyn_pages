@@ -1,6 +1,6 @@
 name = BOSA Oplevfyn Pages
 core = 7.x
-package = Features
+package = BOSA
 version = 7.x-1.0
 project = bosa_oplevfyn_pages
 dependencies[] = ctools
